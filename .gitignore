@@ -1,3 +1,6 @@
+build/
+
+
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
@@ -7,6 +10,3 @@
 *.cmake
 *CMakeCache.txt
 *CMakeFiles
-
-*.dir
-*Debug
